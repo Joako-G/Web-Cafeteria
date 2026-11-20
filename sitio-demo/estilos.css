@@ -1,0 +1,147 @@
+body {
+  background-color: #FAF7F2;
+  color: #2E2823;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 17px;
+  line-height: 1.75;
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 56px 28px 72px 28px;
+}
+
+header {
+  text-align: center;
+  padding-bottom: 32px;
+  border-bottom: 1px solid #E2D8C9;
+  margin-bottom: 54px;
+}
+
+h1 {
+  font-size: 42px;
+  font-weight: normal;
+  color: #3D2F26;
+  text-transform: uppercase;
+  letter-spacing: 7px
+  margin: 0 0 10px 0;
+}
+
+.bajada {
+  margin: 0;
+  color: #857A6F;
+  font-size: 15px;
+  font-style: italic;
+}
+
+nav ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 26px 0 0 0;
+}
+
+nav li {
+  display: inline-block;
+  margin: 0 13px;
+}
+
+nav a {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 2.5px;
+  color: #9C6B43;
+  text-decoration: none;
+}
+
+nav a:hover {
+  color: #2E2823;
+}
+
+h2 {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  text-transform: uppercase;
+  letter-spacing: 3.5px;
+  color: #9C6B43;
+  margin-top: 0;
+  margin-bottom: 26px;
+}
+
+h3 {
+  font-size: 22px;
+  font-weight: normal;
+  color: #3D2F26;
+  margin-top: 0;
+  margin-bottom: 12px;
+}
+
+section {
+  margin-bottom: 54px;
+}
+
+.seccion {
+  margin-bottom: 54px;
+}
+
+.separador {
+  display: block;
+  width: 170px;
+  margin: 0 auto 54px auto;
+}
+
+.lista-productos {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+.lista-productos li {
+  padding-bottom: 38px;
+  margin-bottom: 38px;
+  border-bottom: 1px solid #E2D8C9;
+}
+
+.lista-productos img {
+  display: block;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.lista-productos h3 {
+  margin-bottom: 4px;
+}
+
+.precio {
+  margin: 0 0 12px 0;
+  font-size: 18px;
+  color: #9C6B43;
+}
+
+.seccion ul {
+  padding-left: 20px;
+  color: #4A4038;
+}
+
+.pie {
+  border-top: 1px solid #E2D8C9;
+  padding-top: 32px;
+  text-align: center;
+  font-size: 15px;
+  color: #857A6F;
+}
+
+.pie a {
+  color: #9C6B43;
+}
+
+.aviso {
+  font-size: 13px;
+  letter-spacing: 1px;
+  color: #A39A91;
+}
+
+.destacado {
+  background-color: #F1E8DA;
+  border-left: 3px solid #9C6B43;
+  padding: 18px 22px;
+}
